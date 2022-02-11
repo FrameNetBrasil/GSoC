@@ -41,5 +41,5 @@
 
 ## Other commitments
 * List of any things that might affect your ability to work this summer. 
-   * List any exams, classes, holidays, other jobs, weddings, etc. We can work around a lot of things, but it helps to know in advance.
-* If you're applying to more than one organization, you can let us know which one you prefer in case of a tie.
+List any exams, classes, holidays, other jobs, weddings, etc. We can work around a lot of things, but it helps to know in advance.
+
