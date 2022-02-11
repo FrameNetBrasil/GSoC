@@ -51,7 +51,7 @@ Note: All applications _must_ go through Google's application system; we can't a
 
 ## :speaking_head: Communication
 
-The Google Summer of Code coding period is very short. On top of that, many applicants haven't done a lot of real-world development/engineering work previously; one of the primary purposes of the program is to introduce contributors to real-world development scenarios. On top of that, most mentors and students are in different locations – so face-to-face time is difficult. Because of this, it's vitally important to the success of the GSoC project for all expectations to be specified before contributors begin coding.
+The Google Summer of Code coding period is very short. On top of that, many applicants haven't done a lot of real-world development/engineering work previously; one of the primary purposes of the program is to introduce contributors to real-world development scenarios. On top of that, most mentors and contributors are in different locations – so face-to-face time is difficult. Because of this, it's vitally important to the success of the GSoC project for all expectations to be specified before contributors begin coding.
 
 Frequent communication with your mentor is a **must**. Your mentor should always have a good idea of:
 
