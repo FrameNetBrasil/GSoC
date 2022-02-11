@@ -21,8 +21,8 @@
 2. Project Abstract
 3. Detailed description
 4. Weekly timeline
-   * **Community Bonding** (May 7-26): List any prepwork you want to do before coding starts.
-   * For each coding week below, list planned code deliverables. Break the project into weeks and estimate what you will have complete at the end of each one.  This schedule can be adjusted later if need be.
+
+   > *Break the project into weeks and estimate what you will have complete at the end of each one.  This schedule can be adjusted later if need be. Please include a well-defined and fairly detailed weekly schedule, with clear milestones and deliverables around it. List any prepwork you want to do before coding starts.*
 
    * **Week 1** (May 27-31): You must start coding this week (unless you've made a prior arrangement for exams) so this week's deliverable should be code.
    * **Week 2** (June 3)
