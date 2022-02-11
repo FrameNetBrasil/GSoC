@@ -1,6 +1,6 @@
 # Sub-org name: The thing I want to do this summer
 
-**Note**: Make sure to include the sub-org name in the title both in Google's system and in your document.
+> ***Note**: Make sure to include the sub-org name in the title both in Google's system and in your document.*
 
 ## About me
 1. Name (and nicknames like your github and irc usernames)
