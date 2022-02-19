@@ -6,15 +6,9 @@
 1. Name (and nicknames like your github and irc usernames)
 2. University / program / year / expected graduation date
 3. Contact info (email, phone, etc.)
-4. Time zone 
-5. Link to a resume (if you want)
-
-## Code contribution
-* Link to a pull request or code sample goes here.  
-  * Ideally this should be code submitted to your chosen sub-org as a pull request or patch.
-  * It must represent your own work, although you can have help from developers to improve it.
-  * It must be publicly visible to your mentors and org admins.
-  * You can link more than one if you want.
+4. Which timezone(s) will you primarily be in during the summer
+5. How much time will you be able to commit to this project
+6. Related Technical Skills (please outline any prior experience you have, especially where it relates to technical skills that are needed for the above project. You can link a resume if you want).
 
 ## Project information
 1. Sub-org name
