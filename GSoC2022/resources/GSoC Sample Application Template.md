@@ -14,6 +14,13 @@
 1. Sub-org name
 2. Project Abstract
 3. Detailed description
+
+> *We will be looking for the following:*
+>
+> - *Specific ideas that build on the original project idea, with a strong focus on what's the minimum viable product.*
+> - *Sufficient detail (e.g. references to particular files and methods) to convince us that the applicant is not hand-waving, and has a very good understanding of both the scope of the problem and the existing codebase.*
+> - *Clarity of communication.*
+
 4. Weekly timeline
 
    > *Break the project into weeks and estimate what you will have complete at the end of each one.  This schedule can be adjusted later if need be. Please include a well-defined and fairly detailed weekly schedule, with clear milestones and deliverables around it. List any prepwork you want to do before coding starts.*
